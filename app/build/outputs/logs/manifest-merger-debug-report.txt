@@ -1,0 +1,112 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.type.watch
+ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:5:19-61
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:12:22-76
+application
+ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:14:5-42:19
+MERGED from [com.google.android.support:wearable:2.0.0] C:\Users\Peas\.android\build-cache\aceb5038657ec4742f06774862b4e8fc2ca1683e\output\AndroidManifest.xml:6:5-19
+MERGED from [com.android.support:percent:23.0.1] C:\Users\Peas\.android\build-cache\d353656ed93ed75fef3e0ca5892bef05c2f39c5d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\Peas\.android\build-cache\79a225f67a2c17551571a6b87547c2c6deb60af6\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Peas\.android\build-cache\407a18aebbffb0b51f9b9c1cfa58272226c64e3c\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Peas\.android\build-cache\7a5002767f4dbbdaf1afe38d8595570552e87aba\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Peas\.android\build-cache\35863c1925516c9b62909a328344ae9a6cdfa798\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Peas\.android\build-cache\d4cdcb14bd4b13a5605e5418458d28fcc00a030f\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Peas\.android\build-cache\453742e51aebc190f991d79e4bbd3d5c1012c09d\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:19:9-59
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:29:9-31:55
+	android:value
+		ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:31:13-52
+	android:name
+		ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:30:13-58
+activity#com.example.peas.guide_bot.Maps
+ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:34:13-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.support:wearable:2.0.0] C:\Users\Peas\.android\build-cache\aceb5038657ec4742f06774862b4e8fc2ca1683e\output\AndroidManifest.xml:4:5-72
+MERGED from [com.android.support:percent:23.0.1] C:\Users\Peas\.android\build-cache\d353656ed93ed75fef3e0ca5892bef05c2f39c5d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] C:\Users\Peas\.android\build-cache\20816a96540dae71d7bfccdbe25df8651e28b945\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\Peas\.android\build-cache\79a225f67a2c17551571a6b87547c2c6deb60af6\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Peas\.android\build-cache\407a18aebbffb0b51f9b9c1cfa58272226c64e3c\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Peas\.android\build-cache\7a5002767f4dbbdaf1afe38d8595570552e87aba\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Peas\.android\build-cache\35863c1925516c9b62909a328344ae9a6cdfa798\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Peas\.android\build-cache\d4cdcb14bd4b13a5605e5418458d28fcc00a030f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Peas\.android\build-cache\453742e51aebc190f991d79e4bbd3d5c1012c09d\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] C:\Users\Peas\.android\build-cache\453742e51aebc190f991d79e4bbd3d5c1012c09d\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Peas\AndroidStudioProjects\Guide_Bot\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Peas\.android\build-cache\407a18aebbffb0b51f9b9c1cfa58272226c64e3c\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Peas\.android\build-cache\407a18aebbffb0b51f9b9c1cfa58272226c64e3c\output\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Peas\.android\build-cache\407a18aebbffb0b51f9b9c1cfa58272226c64e3c\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Peas\.android\build-cache\407a18aebbffb0b51f9b9c1cfa58272226c64e3c\output\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Peas\.android\build-cache\407a18aebbffb0b51f9b9c1cfa58272226c64e3c\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Peas\.android\build-cache\407a18aebbffb0b51f9b9c1cfa58272226c64e3c\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Peas\.android\build-cache\407a18aebbffb0b51f9b9c1cfa58272226c64e3c\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Peas\.android\build-cache\7a5002767f4dbbdaf1afe38d8595570552e87aba\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Peas\.android\build-cache\7a5002767f4dbbdaf1afe38d8595570552e87aba\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Peas\.android\build-cache\7a5002767f4dbbdaf1afe38d8595570552e87aba\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Peas\.android\build-cache\7a5002767f4dbbdaf1afe38d8595570552e87aba\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Peas\.android\build-cache\d4cdcb14bd4b13a5605e5418458d28fcc00a030f\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Peas\.android\build-cache\d4cdcb14bd4b13a5605e5418458d28fcc00a030f\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Peas\.android\build-cache\d4cdcb14bd4b13a5605e5418458d28fcc00a030f\output\AndroidManifest.xml:20:20-65
