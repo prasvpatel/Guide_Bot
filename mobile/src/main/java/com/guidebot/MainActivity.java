@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity implements TextToSpeech.OnIn
 
         mNavRef.addValueEventListener(new ValueEventListener() {
             @Override
-            public void onDataChange(DataSnapshot dataSnapshot) {
+            public void onDataChange(DataSnapshot dataSnapshot) {+
                 String text = dataSnapshot.getValue(String.class);
                 mnavTextView.setText(text);
                 tts.speak(text, TextToSpeech.QUEUE_FLUSH, null);
@@ -42,7 +42,6 @@ public class MainActivity extends AppCompatActivity implements TextToSpeech.OnIn
             }
         });
     }
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
