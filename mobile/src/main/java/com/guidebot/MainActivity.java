@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity implements TextToSpeech.OnIn
             }
         });
     }
-
+-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity implements TextToSpeech.OnIn
         setSupportActionBar(toolbar);
         mnavTextView = (TextView)findViewById(R.id.textViewCondition);
         tts = new TextToSpeech(this, this);
+
 
     }
 
