@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://github.com/prasvpatel/Spot_Bot/blob/master/Landing_Pge/logos.png" width="175"
+</p>
 
 ## Inspiration
 We got our inspiration for this project directly from out team. 3 of the 4 team members have glasses and this results in a blurry vision when they don't wear them. While trying out the Google Glasses, and going through the struggle of barely seeing anything with our glasses off, one of our teammates asked, why don't we make something which helps the visually impaired. Through sponsor and mentor suggestions, we realized this idea can come to life and we can make it for more than just the visually impaired. And thus, we set away on the journey of building our bot!
